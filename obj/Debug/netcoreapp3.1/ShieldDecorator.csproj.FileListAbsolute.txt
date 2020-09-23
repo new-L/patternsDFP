@@ -1,0 +1,13 @@
+C:\Users\seyda\source\repos\ShieldDecorator\bin\Debug\netcoreapp3.1\ShieldDecorator.exe
+C:\Users\seyda\source\repos\ShieldDecorator\bin\Debug\netcoreapp3.1\ShieldDecorator.deps.json
+C:\Users\seyda\source\repos\ShieldDecorator\bin\Debug\netcoreapp3.1\ShieldDecorator.runtimeconfig.json
+C:\Users\seyda\source\repos\ShieldDecorator\bin\Debug\netcoreapp3.1\ShieldDecorator.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ShieldDecorator\bin\Debug\netcoreapp3.1\ShieldDecorator.dll
+C:\Users\seyda\source\repos\ShieldDecorator\bin\Debug\netcoreapp3.1\ShieldDecorator.pdb
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.dll
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.pdb
+C:\Users\seyda\source\repos\ShieldDecorator\obj\Debug\netcoreapp3.1\ShieldDecorator.genruntimeconfig.cache
